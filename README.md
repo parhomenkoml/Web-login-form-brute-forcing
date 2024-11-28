@@ -11,5 +11,6 @@ To simulate a login form for the brute force attack, a simple Flask-based web ap
 ![Screenshot_2024-11-28_07-41-55](https://github.com/user-attachments/assets/0f1c0f07-202d-4059-b06c-477412f70c81)
 
 Brute Forcing Script
+The code below is a simple script that attempts to find the correct password for a list of usernames by testing multiple passwords from a file.
 
 ![Screenshot_2024-11-28_07-45-57](https://github.com/user-attachments/assets/09a2e154-6feb-4bee-8751-f7afa051d1ea)
