@@ -2,8 +2,8 @@
 
 This project revolves around developing and executing a brute force attack on a web-based login form. The project was divided into two main components:
 
-Building a simple web application using Flask with an HTML login page.
-Developing a Python script to automate brute force login attempts by using a dictionary of common passwords and monitoring server responses.
+- Building a simple web application using Flask with an HTML login page.
+- Developing a Python script to automate brute force login attempts by using a dictionary of common passwords and monitoring server responses.
 The web application acted as the target for brute-forcing attempts, simulating a scenario where weak login credentials are used, and the brute force attack helps identify the correct username-password combination.
 
 To simulate a login form for the brute force attack, a simple Flask-based web application was created. Flask was used as the backend framework to manage routes and process form submissions. The login page itself was constructed with HTML, allowing users to input a username and password for submission.
