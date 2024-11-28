@@ -11,8 +11,9 @@ To simulate a login form for the brute force attack, a simple Flask-based web ap
 ![Screenshot_2024-11-28_07-41-55](https://github.com/user-attachments/assets/0f1c0f07-202d-4059-b06c-477412f70c81)
 
 If a user enters an invalid username or password, an error message will appear. If the credentials are valid, a success message will be displayed. Now, we have two different responses from the app, which can be used to determine whether the inputs are valid or not.
+![2024-11-28 09_36_29-Greenshot](https://github.com/user-attachments/assets/751be1fd-4fb0-455f-b53b-551a93ac2a9e)
 
-![Screenshot_2024-11-28_07-41-55](https://github.com/user-attachments/assets/5bd96b74-adb3-4a7a-89db-cede6e123b0c)
+
 
  
 
