@@ -1,5 +1,50 @@
 # Web login form brute forcing
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________
 This project revolves around developing and executing a brute force attack on a web-based login form. The project was divided into two main components:
 
 - Building a simple web application using Flask with an HTML login page.
@@ -13,14 +58,22 @@ To simulate a login form for the brute force attack, a simple Flask-based web ap
 If a user enters an invalid username or password, an error message will appear. If the credentials are valid, a success message will be displayed. Now, we have two different responses from the app, which can be used to determine whether the inputs are valid or not.
 ![2024-11-28 09_36_29-Greenshot](https://github.com/user-attachments/assets/751be1fd-4fb0-455f-b53b-551a93ac2a9e)
 
-chcvhhfhfhhfdhf
+
+
+to automate this process we can use python script
+The code below is a simple script that attempts to find the correct password for a list of usernames by testing multiple passwords from a file (top 100 passwords).
+
+![Screenshot_2024-11-28_07-45-57](https://github.com/user-attachments/assets/09a2e154-6feb-4bee-8751-f7afa051d1ea)
+
+
+
+once it find valid password message it display Valid password and username like on a screen below
 
 
 ![Screenshot_2024-11-28_10-35-05](https://github.com/user-attachments/assets/5801b429-238a-46a3-b363-889c650a85e2)
 
- 
 
-to automate this process we can use python script
-The code below is a simple script that attempts to find the correct password for a list of usernames by testing multiple passwords from a file.
+conclission.
 
-![Screenshot_2024-11-28_07-45-57](https://github.com/user-attachments/assets/09a2e154-6feb-4bee-8751-f7afa051d1ea)
+
+
