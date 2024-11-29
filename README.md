@@ -1,4 +1,4 @@
-# Web login form brute forcing
+# Web login form brute
 
 This project focuses on developing and executing a brute force attack on a web-based login form. The project is divided into two key components:
 
